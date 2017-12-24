@@ -1,0 +1,13 @@
+﻿生成启动时间为 2017/11/5 13:55:23。
+     1>项目“C:\Users\浩程\Documents\Visual Studio 2015\Projects\FaceTracking\FaceTracking\FaceTracking.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /IC:\opencv\build\include /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TP /errorReport:prompt FaceTracking.cpp
+         FaceTracking.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\浩程\Documents\Visual Studio 2015\Projects\FaceTracking\x64\Debug\FaceTracking.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x64\vc14\lib opencv_world330.lib opencv_world330d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\浩程\Documents\Visual Studio 2015\Projects\FaceTracking\x64\Debug\FaceTracking.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\浩程\Documents\Visual Studio 2015\Projects\FaceTracking\x64\Debug\FaceTracking.lib" /MACHINE:X64 x64\Debug\FaceTracking.obj
+         FaceTracking.vcxproj -> C:\Users\浩程\Documents\Visual Studio 2015\Projects\FaceTracking\x64\Debug\FaceTracking.exe
+     1>已完成生成项目“C:\Users\浩程\Documents\Visual Studio 2015\Projects\FaceTracking\FaceTracking\FaceTracking.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.77
